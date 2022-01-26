@@ -4,8 +4,7 @@ h1 {
 }
 
 .group-1 {
-    height: 200px;
-    
+    height: 200px;  
     display: flex;
     background-color: coral;
     justify-content: space-around;
@@ -17,7 +16,6 @@ h1 {
 
 .group-2 {
     height: 200px;
-
     display: flex;
     background-color: darkcyan;
     justify-content: space-around;
