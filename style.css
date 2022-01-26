@@ -1,0 +1,42 @@
+
+h1 {
+    text-align: center;
+}
+
+.group-1 {
+    height: 200px;
+    
+    display: flex;
+    background-color: coral;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.group-2 {
+    height: 200px;
+
+    display: flex;
+    background-color: darkcyan;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.group-3 {
+    height: 200px;
+    display: flex;
+    background-color: darkkhaki;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.note {
+    text-align: center;
+}
